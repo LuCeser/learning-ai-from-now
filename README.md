@@ -1,1 +1,2 @@
-# learning-ai-from-now
+# 今天开始学A.I.
+

@@ -2,4 +2,4 @@ dependencies:
   - python=3.5
   - pip:
     - numpy
-	- matplotlib
+    - matplotlib
